@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi! Welcome to the Computational Lab at the Department of Pathology"
 author_profile: true
 redirect_from: 
   - /about/
